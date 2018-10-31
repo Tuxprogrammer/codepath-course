@@ -131,3 +131,18 @@ Vulnerability #2: CSRF (contact.php)
 ## Notes
 
 Describe any challenges encountered while doing the work
+
+# Week 9
+## Which Honeypot(s) you deployed
+I deployed Ubuntu -- Dionaea with HTTP on Ubuntu 14.04
+
+## Any issues you encountered
+I encountered an issue installing the MVN framework due to a dependency that could not be located as the repostory for it doesn't exist any more. 
+
+## A summary of the data collected: number of attacks, number of malware samples, etc.
+In total, my honeypot collected no samples. A possible reason for this is that the server didn't have enough time to collect data from attackers. It could also be a configuration issue, since there were problems with the installation process.
+
+The session.json file in the root folder was downloaded from the MVN admin server.
+## Any unresolved questions raised by the data collected
+Why no attacks appeared from the honeypot server?
+
