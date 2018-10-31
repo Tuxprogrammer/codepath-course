@@ -142,7 +142,7 @@ I encountered an issue installing the MVN framework due to a dependency that cou
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
 In total, my honeypot collected no samples. A possible reason for this is that the server didn't have enough time to collect data from attackers. It could also be a configuration issue, since there were problems with the installation process.
 
-The session.json file in the root folder was downloaded from the MVN admin server.
+The session.json file cannot be uploaded to github because it is empty.
 ## Any unresolved questions raised by the data collected
 Why no attacks appeared from the honeypot server?
 
